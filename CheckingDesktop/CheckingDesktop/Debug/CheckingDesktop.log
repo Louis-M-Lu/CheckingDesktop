@@ -1,2 +1,4 @@
 ﻿  CheckingDesktop.cpp
-  CheckingDesktop.vcxproj -> D:\C++\C++项目\CheckingDesktop\Debug\CheckingDesktop.exe
+d:\c++\c++项目\checkingdesktop\checkingdesktop\checkingdesktop.cpp(87): error C2059: 语法错误:“]”
+d:\c++\c++项目\checkingdesktop\checkingdesktop\checkingdesktop.cpp(87): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\c++\c++项目\checkingdesktop\checkingdesktop\checkingdesktop.cpp(87): error C2143: 语法错误: 缺少“;”(在“}”的前面)
